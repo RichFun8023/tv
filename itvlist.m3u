@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视频道",CCTV教育
+http://58.53.152.234:9901/tsfile/live/faacts/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://58.53.152.234:9901/tsfile/live/faacts/0127_2.m3u8?key=txiptv&playlive=1&authid=0
