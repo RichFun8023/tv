@@ -1,4 +1,3 @@
 央视频道,#genre#
-CCTV15,http://58.53.152.234:9901/tsfile/live/faacts/0015_2.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
 其他频道,#genre#
